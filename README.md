@@ -115,4 +115,4 @@ git tag -a 1.0.0 -m "Release 1.0.0"
 git branch -d release/1.0.0
 ```
 
-This ensures that changes from the release branch are integrated into both the `develop` and `master` branches. Thanks for pointing out the omission!
+
