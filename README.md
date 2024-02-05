@@ -1,4 +1,4 @@
-# gitexamples_workflowgit (generate by ChaGPT 3.5)
+# gitexamples_workflowgit (generate by ChatGPT 3.5)
 
 You're absolutely correct, and I appreciate your observation. In the workflow described earlier, the changes from the release branch should indeed be merged into both the `develop` branch and the `master` (or `main`) branch.
 
