@@ -1,6 +1,6 @@
 # gitexamples_workflowgit (generate by ChatGPT 3.5)
 
-Certainly! The goal of the revised workflow is to establish a simplified branching model for a project, where features are developed on separate branches, integrated into a development branch (`develop`), and eventually released to a master branch (`master`). Here are the key goals:
+The goal of the revised workflow is to establish a simplified branching model for a project, where features are developed on separate branches, integrated into a development branch (`develop`), and eventually released to a master branch (`master`). Here are the key goals:
 
 1. **Initialize a Project:**
    - Set up a new project with a README file and an initial commit.
